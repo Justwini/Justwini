@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Justwini
-- 🤠 I'm data analyst who enjoys documenting her lerning journey.
+- 🤠 I'm data scientist who enjoys documenting her lerning journey.
 - 👀 I'm interested in the use of machine learning and AI in medicine.
 - 🌱 I’m currently learning computional neuroscience.
 - 💞️ I’m looking to collaborate on data analysis projects.
