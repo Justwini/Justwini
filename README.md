@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on data analysis projects.
 - 📫 Let's connect by e-mail justyna.winiarska99@gmail.com.
 
-
 <!---
 Justwini/Justwini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
